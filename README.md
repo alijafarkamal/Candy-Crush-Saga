@@ -38,7 +38,7 @@ Welcome to the **most stunning Candy Crush Saga ** game ever made in **C++ & SFM
 
 ## 🎬 **Screenshots & Gameplay Preview**  
 
-🔹 **![tempa](https://github.com/user-attachments/assets/11f7c02a-2824-49e8-be20-6c881f48199a)**
+🔹 ![tempa](https://github.com/user-attachments/assets/11f7c02a-2824-49e8-be20-6c881f48199a)
 
 ---
 
